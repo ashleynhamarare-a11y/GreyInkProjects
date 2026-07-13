@@ -1,4 +1,0 @@
-Contact: mailto:greyinkagency@gmail.com
-Expires: 2027-07-04T00:00:00.000Z
-Preferred-Languages: en
-Canonical: https://greyinkprojects.online/.well-known/security.txt
