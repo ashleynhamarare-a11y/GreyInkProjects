@@ -1,5 +1,0 @@
-# https://greyinkprojects.online/robots.txt
-User-agent: *
-Allow: /
-
-Sitemap: https://greyinkprojects.online/sitemap.xml
